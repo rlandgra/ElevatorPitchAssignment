@@ -1,4 +1,4 @@
-# ElevatorPitchAssignment
+# Elevator Pitch Assignment
 
 Hi everyone! My name is Ross Landgraf and I am a Junior here at UNC Charlotte. My major is computer science with a concentration in cybersecurity. My project I will be discussing today is an online dashboard for viewing crimes that have been committed in the UNC Charlotte area.
           <br />The main issue is that there are many crimes that happen on and around UNC Charlotte. Some of these crimes are minor, and some are of a level that people should be concerned about. Currently, there is not a clear interface for students and or people interested in the crime rates near the campus area to view them. Something needs to exist so that students, parents, and other members of the community can track and report crimes on or near campus.
