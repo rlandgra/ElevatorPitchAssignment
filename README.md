@@ -7,4 +7,4 @@ Hi everyone! My name is Ross Landgraf and I am a Junior here at UNC Charlotte. M
           <br />The solution to this problem will be a dashboard/portal that will track any crime/on-campus issues that have happened recently and in the past. It will also have a section that will track any crime/off-campus issues that have happened recently. People will also be able to anonymously report events so that they can be displayed for others.  This solution will also show graphs and other graphics to make the information more user friendly.
           
         
-          <br />Video youtube link:
+                    Video youtube link:
